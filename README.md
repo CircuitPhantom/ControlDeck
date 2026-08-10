@@ -63,15 +63,19 @@ Built by CircuitPhantom for the StarDance Hackpad mission on Hack Club.
 ## Gallery
 
 <img width="701" height="608" alt="image" src="https://github.com/user-attachments/assets/3ffa7879-6e22-4c15-95e7-464492917b03" />
+
 Overall image
 
 <img width="719" height="577" alt="image" src="https://github.com/user-attachments/assets/fc704286-d269-4327-8fa9-564b33cf3c0a" />
+
 Schematic
 
 <img width="634" height="703" alt="image" src="https://github.com/user-attachments/assets/b2e79c2d-50db-44a5-b881-5c2275f49bb3" />
+
 PCB
 
 <img width="572" height="516" alt="image" src="https://github.com/user-attachments/assets/066d79ba-469c-4916-9fe6-76bf18729655" />
+
 Case
 
 
