@@ -1,6 +1,6 @@
 # controldeck
 
-![controldeck](https://imgur.com/a/RZj3H6Z)
+<img width="701" height="608" alt="Ekran görüntüsü 2026-08-11 002451" src="https://github.com/user-attachments/assets/1c56db1a-c92f-4aac-881b-9848872d023c" />
 
 A small 3-button media controller with a rotary encoder, built on the Seeeduino XIAO RP2040 for the StarDance Hackpad mission on Hack Club.
 
