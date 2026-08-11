@@ -1,6 +1,6 @@
 # ControlDeck
 
-A compact, open-source desktop media controller / macropad, built for the **StarDance** mission on [Hack Club](https://hackclub.com/).
+A compact, open-source desktop media controller / macropad, built for the **StarDance Hackpad** mission on [Hack Club](https://hackclub.com/).
 
 3 mechanical keys + a rotary encoder with push-button, all driven by a Seeeduino XIAO RP2040 running QMK firmware.
 
