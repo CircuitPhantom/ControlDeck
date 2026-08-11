@@ -4,7 +4,7 @@ A compact, open-source desktop media controller / macropad, built for the **Star
 
 3 mechanical keys + a rotary encoder with push-button, all driven by a Seeeduino XIAO RP2040 running QMK firmware.
 
-## IMPORTANT!!!
+## Important Note
 I haven't tested it myself yet, so no guarantees it works 100%. But if you end up building it before I do, let me know how it goes!
 
 ## Features
