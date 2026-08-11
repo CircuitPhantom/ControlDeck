@@ -19,8 +19,8 @@ A compact, open-source desktop media controller / macropad, built for the **Star
 | Seeeduino XIAO RP2040 | 1 | Main controller |
 | Cherry MX-style keyswitch | 3 | SW1, SW2, SW3 |
 | EC11 rotary encoder (with push switch) | 1 | SW6 |
-| Custom PCB | 1 | KiCad design, see `/kicad` |
-| 3D-printed case (top + base) | 1 | Fusion 360 design, see `/case` |
+| Custom PCB | 1 | KiCad design, see `/pcb` |
+| 3D-printed case (top + base) | 1 | Fusion 360 design, see `/cad` |
 
 ### Wiring
 
