@@ -54,7 +54,7 @@ Built with [QMK Firmware](https://qmk.fm/) for RP2040, using `DIRECT_PINS` (no k
 ## Project Structure
 
 ```
-├── cad/        # STL files for the enclosure
+├── cad/        # STEP file for the enclosure
 ├── firmware/
 |    └──controldeck    # QMK files for the firmware
 ├── pcb/       # PCB schematic and layout
