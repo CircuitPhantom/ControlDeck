@@ -4,9 +4,23 @@ A compact, open-source desktop media controller / macropad, built for the **Star
 
 3 mechanical keys + a rotary encoder with push-button, all driven by a Seeeduino XIAO RP2040 running QMK firmware.
 
+<img width="701" alt="ControlDeck assembled" src="https://github.com/user-attachments/assets/e698dfb7-3380-4113-9607-432711711792" />
+
 ## Important Note
 
 I haven't tested it myself yet, so no guarantees it works 100%. But if you end up building it before I do, let me know how it goes!
+
+## Quick Start
+
+1. **Order the PCB** — send the files in [`/pcb`](./pcb) to your fab of choice (e.g. JLCPCB).
+2. **Print the case** — slice and print the enclosure files in [`/cad`](./cad).
+3. **Flash the firmware** — build and flash with QMK:
+   ```bash
+   qmk compile -kb controldeck -km default
+   qmk flash -kb controldeck -km default
+   ```
+   See [`firmware/controldeck/readme.md`](./firmware/controldeck/readme.md) for full build/flash instructions.
+4. **Assemble** — solder the switches and encoder per the [wiring table](#wiring) below, mount in the case.
 
 ## Features
 
@@ -74,7 +88,6 @@ Built by CircuitPhantom for the StarDance Hackpad mission on Hack Club.
 <img width="719" height="577" alt="Ekran görüntüsü 2026-08-11 002548" src="https://github.com/user-attachments/assets/0b7bded3-a8cb-4d50-bee3-78eb75f7f6cc" />
 <img width="634" height="703" alt="Ekran görüntüsü 2026-08-11 002629" src="https://github.com/user-attachments/assets/6f698e95-85e9-497c-906a-726f06fab2bf" />
 <img width="572" height="516" alt="Ekran görüntüsü 2026-08-11 002918" src="https://github.com/user-attachments/assets/2a24f2d0-4d29-434f-9ec7-e931f748f53c" />
-
 
 ## License
 
