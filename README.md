@@ -8,7 +8,7 @@ A compact, open-source desktop media controller / macropad, built for the **Star
 
 ## Important Note
 
-I haven't tested it myself yet, so no guarantees it works 100%. But if you end up building it before I do, let me know how it goes!
+I haven't tested it myself yet, so no guarantees it works 100%. I plan to build it this month (August 2026) but if you end up building it before I do, let me know how it goes!
 
 ## Quick Start
 
